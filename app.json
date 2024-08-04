@@ -28,7 +28,14 @@
     "plugins": [
       "expo-router",
       "expo-dev-client",
-      "expo-font"
+      "expo-font",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+
     ]
   }
 }
