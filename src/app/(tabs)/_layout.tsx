@@ -74,7 +74,7 @@ export default function RootLayout() {
                     headerTitle: 'user',
                      
 
-                    tabBarIcon: () => <MaterialCommunityIcons name="account-circle-outline" size={27} color="black" />,
+                    tabBarIcon:  () => <MaterialCommunityIcons name="account-circle-outline" size={27} color="black" />,
                 }} />
         </Tabs>
 
