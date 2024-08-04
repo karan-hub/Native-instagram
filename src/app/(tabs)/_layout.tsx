@@ -57,7 +57,7 @@ export default function RootLayout() {
                 }} />
 
 
-            <Tabs.Screen name="Create"
+            <Tabs.Screen name="new"
                 options={{
                     headerTitle: ' Create Post',
                     

@@ -12,7 +12,8 @@ export default function  PostListItem({post}) {
  
     
     return (
-        <View className="bg-white" >
+        <View className="bg-gray-50 mb-2  rounded-lg " >
+        
             <View className="flex-row items-center justify-between ">
                 <View className="flex-row p-2  justify-start items-center gap-2">
                     <Image
